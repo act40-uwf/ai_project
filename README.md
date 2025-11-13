@@ -81,6 +81,23 @@ A JavaScript-based web application for meal planning, pantry management, and gro
    - Empty meal plan (ready for selection)
    - All data persisted in browser localStorage
 
+### Deploying to GitHub Pages
+
+This application can be deployed as a static site using GitHub Pages:
+
+1. Go to your repository on GitHub: https://github.com/act40-uwf/ai_project
+2. Click **Settings** (top right of repository)
+3. In the left sidebar, click **Pages**
+4. Under **Source**, select:
+   - Branch: `main`
+   - Folder: `/ (root)`
+5. Click **Save**
+
+Your application will be live at:
+**https://act40-uwf.github.io/ai_project/**
+
+> Note: It may take a few minutes for the site to be available after enabling GitHub Pages. You can check the deployment status in the **Actions** tab of your repository.
+
 ## Usage Guide
 
 ### Managing Your Pantry
